@@ -6,7 +6,7 @@
 
 ## 🌐 Live Website
 
-👉 [https://smag-token.github.io/smagtoken-site/](https://smag-token.github.io/smagtoken-site/)
+👉 https://smag-token.github.io/SMAG/
 
 ---
 
